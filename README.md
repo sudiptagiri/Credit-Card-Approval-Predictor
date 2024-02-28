@@ -10,6 +10,7 @@ The dataset contains a mix of both numerical and non-numerical features, includi
 Our goal is to create a model that can predict whether an individual’s application for a credit card will be accepted or not. <br>
 <br>
 Why Predict Credit Card Approvals? <br>
+<br>
 Commercial banks receive numerous credit card applications daily.<br>
 Manually analyzing these applications is time-consuming and error-prone.<br>
 Machine learning models automate this process, making it efficient and accurate.<br>
