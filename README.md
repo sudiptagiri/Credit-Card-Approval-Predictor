@@ -14,3 +14,7 @@ Why Predict Credit Card Approvals? <br>
 Commercial banks receive numerous credit card applications daily.<br>
 Manually analyzing these applications is time-consuming and error-prone.<br>
 Machine learning models automate this process, making it efficient and accurate.<br>
+<br>
+We’ll preprocess the dataset to ensure our chosen machine learning model performs well.<br>
+Exploratory data analysis will help build our intuitions.<br>
+Finally, we’ll create a model that predicts credit card approval status.<br>
